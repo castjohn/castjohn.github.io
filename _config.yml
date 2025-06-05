@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "About Carl"
 title_separator          : "-"
 name                     : &name "Carl St. John, PhD"
 description              : &description "Carl St. John's personal website"
