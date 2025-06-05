@@ -25,9 +25,9 @@ author:
   avatar           : "Carl_StJohn_profile_copy.jpg"
   name             : "Carl St. John, PhD"
   pronouns         : # example: "he/him"  
-  bio              : "Population Genomics\n Fisheries\n Evolution"
+  bio              : "Population Genomics, Fisheries, Evolution"
   location         : "Juneau, AK"
-  employer         : "University of Alaska Fairbanks\n NOAA ABL Genetics Program"
+  employer         : "UAF, NOAA ABL Genetics Program"
   uri              : # URL
   email            : "castjohn2@alaska.edu" 
 
