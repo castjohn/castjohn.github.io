@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Whole Genome Sequencing Reveals Substantial Genetic Structure and Evidence of Local Adaptation in Alaskan Red King Crab"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper describes genomic patterns including structure and local adaptation in support of management and stock enhancement.'
+date: 2024
+venue: 'Evolutionary Applications'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/eva.70049'
+citation: 'St. John, C. A., Timm, L. E., Gruenthal, K. M., & Larson, W. A. (2025). &quot;Whole Genome Sequencing Reveals Substantial Genetic Structure and Evidence of Local Adaptation in Alaskan Red King Crab.&quot; <i>Evolutionary Applications</i>. 18(1), e70049.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
