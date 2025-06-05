@@ -29,7 +29,7 @@ author:
   location         : "Juneau, AK"
   employer         : "University of Alaska Fairbanks\n NOAA ABL Genetics Program"
   uri              : # URL
-  email            : "castjohn2Qalaska.edu" 
+  email            : "castjohn2@alaska.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=5AYIjysAAAAJ"
@@ -44,8 +44,6 @@ author:
 
 # Publication Category - The following is the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
