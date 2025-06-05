@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![cool aditondack banner picture](/images/ADK_banner.jpg){:width="250"}
+![cool aditondack banner picture](/images/ADK_banner.jpg){:width="1000"}
 
 Howdy! You've found my personal website so here's a little bit about myself...
 
