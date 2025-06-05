@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![link to CV](/files/CV_Carl_StJohn_March2025.pdf)
+[link to CV](/files/CV_Carl_StJohn_March2025.pdf)
