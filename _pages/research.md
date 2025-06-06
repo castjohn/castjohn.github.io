@@ -25,7 +25,6 @@ The Alaskan red king crab fishery supports fishing communities from Oregon to we
 <img style="float: left;" src="/images/Small_sucker_5-20_cropped_350x201.jpg">
 The Summer Sucker was first described in 1886 as a small, early spawning species sister the White Sucker, and endemic to the Adirondack region of New York State. Since then, it has been redescribed either as a species or subspecies 6 different times, most recently as a species in 2008. Its species status was again questioned based on inconsistent morphological characters and contradictory genetic data. We combined observational field studies with whole genome sequencing in two lakes where Summer Suckers and White Suckers co-occur to disentangle evolutionary relationships and better define diagnostic characters between the two species. 
 
-<br><br>
 
 #### Life history evolution
 <img style="float: right;" src="/images/Fig_4_350x244.png">
