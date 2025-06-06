@@ -3,8 +3,8 @@ permalink: /
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
 The Baikal sculpin radiation is a species flock of more than 30 sculpin species endemic to the Lake Baikal Basin in Irkutsk Oblast, Russia. They have divergend in the last ~2 million years, taking advantage of vacant niches in the worlds deepest lake. Among these species is the benthopelagic genus _COttocomephorus_, one of only two Sculpin genera to invade the pelagic zone, the other being the Baikal Oilfish, _Comephorus_. Without swimbaldder, these pelagic sculpins have reduced their skeletons and increased their fat storage to acheive neutral buoyancy.
