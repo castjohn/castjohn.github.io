@@ -32,6 +32,6 @@ The Baikal sculpin radiation is a species flock of more than 30 sculpin species 
 The taxonomy of _Cottocomephorus_ was unresolved before I started my research. We found that _Cottocomephorus_ encompasses 3 species which span a gradient from more benthic behavior to more pelagic. Their skull structure also reflects a transistion from feeding on benthic inverebrates to the pelagic Baikal amphipod, _Macrohectopus branickii_. Our finding fits into a larger pattern of fish speciation over depth gradients.
 
 ### Convergent evolution of pelagic traits
-<img style="float: left;" width = "400" src="/images/CH2_Fig1.png">
+<img style="float: right;" width = "400" src="/images/CH2_Fig1.png">
 As stated, pelagic sculpins had to reduce their skeletons and store extra fat to achieve neutral byouancy and take advantage of the hyper-abundant prey _Macrohectopus branickii_ in Lake Baikal. Interestingly, the two pelagic Baikal sculpin genera are not sister clades suggesting their adaptions to pelagic swimming are convergent. Our analysis of genes under selection in each lineage found 56 non-neutrally evolving genes within each lineage, 7 of which were shared. Among the shared genes were two collagen genes involved in bone development that are also under selection in the distantly related notothenioids, a clade with two pelagic genera that also lack swim bladders. These collagen genes may be part of a conserved mechansism for skeletal modification in fishes. 
 
